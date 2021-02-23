@@ -1,4 +1,4 @@
-# MessengerServices
+# Messenger Echo Bot
 
 To start your Phoenix server:
 
